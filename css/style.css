@@ -1,0 +1,57 @@
+/* 全局定义 */
+body{color:#666666;}
+.wrap{width:980px; margin:0 auto;}
+.word-style{font-weight:bold; color:#666666;}
+
+/* header */
+.header .header-top{height:30px; background:url(../img/header-top-bg.gif) 0 0 scroll transparent repeat-x; line-height:30px;}
+.header .header-top a{float:left; color:white;}
+.header .header-top .logo{margin-top:5px; margin-right:4px;}
+.header .header-bottom-bg{background:url(../img/header-bottom-border.gif) 0 bottom scroll transparent repeat-x;}
+.header .header-bottom{background:url(../img/header-middle.jpg) center 0 no-repeat scroll transparent; height:497px; position:relative;}
+.header .header-bottom .organizer{position:relative; top:32px; color:white; left:10px;}
+.header .header-bottom .organizer img{position:absolute; top:237px; left:40px;}
+.header-bottom .start {position:relative; top:295px; left:190px; width:700px;}
+.header-bottom .start .address {position:absolute; left:334px; font-weight:bold; color:white; top:5px; font-size:14px;}
+
+/* main */
+.main{padding-bottom:157px;  background:#F8F8F8; position:relative;}
+.main .main-top-img{position:relative; height:208px; width:980px;}
+.main .main-top{position:absolute; top:-57px;}
+.main .main-top img{float:left;}
+.main .intro-block{margin-bottom:60px;}
+.main .intro-block h2{margin-left:23px; color:#000000; font-size:14px; font-weight:bold; margin-bottom:15px;}
+.main .intro-block .intro-word-block{background:url(../img/intro-word-bg.png) 0 0 scroll transparent repeat-x; border-top:1px solid #E3E3E3;}
+.main .intro-block .intro-word {padding:20px 22px 0 23px; }
+.main .intro-block .intro-word p{width:935px; text-indent:2em; margin-bottom:10px;}
+.main .intro-word p  span{font-weight:bold; line-height:30px;}
+.main .intro-block .intro-word p  s{font-weight:bold; color:#333; text-decoration:none;}
+.main .intro-block .intro-word h3{background:url(../img/arrow.png) 0 center no-repeat scroll transparent; padding-left:20px; margin-bottom:12px; font-weight:bold; height:20px; line-height:20px;}
+.main .intro-block .intro-word  .train-intro{margin-bottom:30px;}
+.main .intro-block .intro-word  .train-intro p{margin-left:20px; text-indent:0; width:910px;}
+.main .train-intro span.notice{color:#CC0000; font-weight:bold;}
+.main .train-intro .research-expenses-notice{color:#CC0000; font-weight:normal;}
+.main .train-intro h3 span{font-weight:normal;}
+.main .intro-block .intro-word  .research-studies .train-intro{width:465px; margin-bottom:0px;}
+.main .intro-block .intro-word  .research-studies .train-intro p{margin:0 0 0 20px; width:445px;}
+.main .intro-block .intro-word  .research-studies .train-intro h3{margin-bottom:0px;}
+.main .intro-block .intro-word  img{padding:8px; border:1px solid #E3E3E3; background:white;}
+.main .intro-block .intro-word  .teacher-photo{width:238px;}
+.main .intro-block .intro-word .teacher-intro p{width:670px;}
+.main .intro-block .intro-word .teacher-intro .teacher-intro-word{margin-bottom:23px;}
+.main .intro-block .intro-word .teacher-intro .teacher-intro-founder p{ text-indent:0px; margin-left:23px;  margin-bottom:none;}
+
+/* footer */
+.footer{background:white; position:relative;}
+.footer-intro{position:absolute; background:url(../img/footer-intro.gif) 0 0 scroll transparent no-repeat;height:206px; top:-123px; width:980px;}
+.footer-intro .footer-block{margin:46px 0 0 66px; width:420px;}
+.footer-intro .footer-block h2{color:#333333; font-weight:bold; background:url(../img/arrow.png) 0 center scroll transparent no-repeat; padding-left:20px;}
+.footer-intro .footer-block p{margin-left:20px; height:22px;}
+.footer-intro .footer-block p span{color:#666666; font-weight:bold;}
+.footer .copy{padding-top:108px; text-align:center;}
+.footer .copy a{color:#666666;}
+.footer .copy p{margin-bottom:5px;}
+
+/* download */
+.download .return-top{padding-bottom:10px; padding-left:60px;}
+
